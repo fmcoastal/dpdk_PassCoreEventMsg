@@ -53,6 +53,13 @@ The dpdk_PassCoreEvnetMsg is dpdk code built on top of the "test harness code".
 
       $ git clone https://github.com/fmcoastal/dpdk_PassCoreEventMsg.git
 
+   * Make the scripts executible
+
+      $ chmod +x  huge_mem_cfg
+      $ chmod +x  dpdk_cfg
+      $ chmod +x  h_fixes
+      $ chmod +x  x
+ 
 
  - From grok.fae.com
    * go to grok.faelab.com/codeclips/dpdk_PassCoreEventMsg
